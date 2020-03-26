@@ -1,6 +1,6 @@
 ### Schema
-CREATE DATABASE burger_db;
-USE burger_db;
+CREATE DATABASE k16kc40r26h1hbyp;
+USE k16kc40r26h1hbyp;
 
 CREATE TABLE burger
 (
