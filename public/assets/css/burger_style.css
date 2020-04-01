@@ -1,8 +1,14 @@
-body {
- 
-  margin: 0;
+
+html {
+  margin-top: -135px;
   padding: 0;
 }
+footer {
+  margin-bottom: 135px;
+  padding: 0;
+}
+
+
 h1 {
   text-align: center;
   font-size: 8rem !important;
