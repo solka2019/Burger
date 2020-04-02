@@ -53,7 +53,7 @@ This app is from a restaurant named Eat-Da-Burger that allows the user to choose
 https://burger-heroku-app.herokuapp.com/
 
 ## Screenshot
-![webpage-Heroku](public/assets/img/webpage.png)
+![webpage-Heroku](./public/assets/img/webpage.png)
 ### Add To Your Portfolio
 
 After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
