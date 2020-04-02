@@ -1,11 +1,11 @@
-
 html {
+ 
   margin-top: -135px;
-  padding: 0;
+  
 }
-footer {
-  margin-bottom: 135px;
-  padding: 0;
+body {
+  margin-bottom: 130px;
+  height:;
 }
 
 
@@ -44,8 +44,6 @@ li {
 
 .col{
   background-image: url("./wood.jpg");
-  height: 100%;
-  width:100%
   text-align:center;
   
 }
@@ -63,8 +61,11 @@ li {
   width: 40%;
 }
 
+
+
+
 #bb {
-  width: 100%;
+  width: 80%;
   height: 100px;
   text-align: center;
   font-size: 30px;
@@ -99,4 +100,18 @@ h2 {
 img {
   margin-left: 80px;
   padding-top:10px;
+}
+.orderagainbox {
+  margin:0;
+  padding:0;
+}
+
+.orderedbox {
+  margin:0;
+  padding:0;
+}
+
+.btn.delete {
+size: 6rem;
+
 }
