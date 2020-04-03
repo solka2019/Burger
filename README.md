@@ -57,6 +57,6 @@ https://solka2019.github.io/Burger/.
 
 https://github.com/solka2019/Burger
 
-### Link to  my Portfolio
+### Link to  my Portfolio - screenshot
 
-
+![Image description](./public/assets/img/burger-portfolio.PNG)
