@@ -49,12 +49,14 @@ This app is from a restaurant named Eat-Da-Burger that allows the user to choose
         └── main.handlebars
 
 
-# Heroku deployment
+# Heroku deployment and Github 
+
 https://burger-heroku-app.herokuapp.com/
 
-## Screenshot
-![webpage-Heroku](./public/assets/img/webpage.png)
-### Add To Your Portfolio
+https://solka2019.github.io/Burger/.
 
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
+https://github.com/solka2019/Burger
+
+### Link to  my Portfolio
+
 
